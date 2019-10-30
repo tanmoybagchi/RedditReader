@@ -132,6 +132,9 @@ MIT
 @angular/router
 MIT
 
+@angular/service-worker
+MIT
+
 core
 
 core-js
