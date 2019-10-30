@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1572466453370,
+  "timestamp": 1572467497498,
   "index": "/RedditReader/index.html",
   "assetGroups": [
     {
@@ -110,7 +110,7 @@
     "/RedditReader/index.html": "ee7221780a18110e24821420017bf6e1e0b32930",
     "/RedditReader/main-es2015.b90fb921ca260ceb5a18.js": "5d696be27d34277acc120bbc309079f93c3c3b9f",
     "/RedditReader/main-es5.b90fb921ca260ceb5a18.js": "4f36479b94d8ee6b942e5e14f7686fae05bea65f",
-    "/RedditReader/manifest.webmanifest": "f4cbfebf9d47de27d45214d30afb954ee7314006",
+    "/RedditReader/manifest.webmanifest": "3a716708eaa41cce78fc4449030b5dd721e5a5a7",
     "/RedditReader/polyfills-es2015.25bfed26497f24d6d1d7.js": "18588be685402df9b1ca7dd25ac153eb68bffe8e",
     "/RedditReader/polyfills-es5.943b9be6b2419f467c3c.js": "18406398451b2d52a3910fb2ab7a489d615e8379",
     "/RedditReader/runtime-es2015.e8a2810b3b08d6a1b6aa.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",

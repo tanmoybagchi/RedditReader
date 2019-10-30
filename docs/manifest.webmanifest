@@ -5,7 +5,7 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/RedditReader/",
-  "start_url": "/RedditReader/",
+  "start_url": "/RedditReader/r/popular",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
