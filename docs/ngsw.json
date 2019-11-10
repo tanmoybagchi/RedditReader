@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1573387435535,
+  "timestamp": 1573387795242,
   "index": "/RedditReader/index.html",
   "assetGroups": [
     {
@@ -9,8 +9,8 @@
       "updateMode": "prefetch",
       "urls": [
         "/RedditReader/index.html",
-        "/RedditReader/main-es2015.2f73bba9f29f8d339ef4.js",
-        "/RedditReader/main-es5.2f73bba9f29f8d339ef4.js",
+        "/RedditReader/main-es2015.f897ecbe71adc42e8e62.js",
+        "/RedditReader/main-es5.f897ecbe71adc42e8e62.js",
         "/RedditReader/manifest.webmanifest",
         "/RedditReader/polyfills-es2015.4ddeb73791cb6fa9ec79.js",
         "/RedditReader/polyfills-es5.1371f0ecbbf3eba6c42b.js",
@@ -107,10 +107,10 @@
     "/RedditReader/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/RedditReader/great-vibes-latin-400.15d8dd2bf3b066290ec0.woff": "2cd10227e58ea02510de2b3363803c662218835e",
     "/RedditReader/great-vibes-latin-400.cd8416afbf4155a10f24.woff2": "7373ca191f5e6a879d59c3f70215dcadac5b26cf",
-    "/RedditReader/index.html": "a20b69a606af36bf14aca9da4ae991a8b9db4a4d",
-    "/RedditReader/main-es2015.2f73bba9f29f8d339ef4.js": "a1b0b3f3ac61e51c309b447a7857737bb2b439da",
-    "/RedditReader/main-es5.2f73bba9f29f8d339ef4.js": "e90715a54853b847a89d5eb8d6ba94a40f09a4c9",
-    "/RedditReader/manifest.webmanifest": "49bd2637fafb8e3d78edee2719162dde49d7d076",
+    "/RedditReader/index.html": "5e0547eb1b39a568d46901de33a1155df41fe24d",
+    "/RedditReader/main-es2015.f897ecbe71adc42e8e62.js": "6c1abb37d52a9f27942363672c3a9c3bf8ca9fcf",
+    "/RedditReader/main-es5.f897ecbe71adc42e8e62.js": "d59afe50c286e57761a2d1683f43a4a6e89393dc",
+    "/RedditReader/manifest.webmanifest": "9cb34b4dac1109cae926bc42e2f04a61283cd2be",
     "/RedditReader/polyfills-es2015.4ddeb73791cb6fa9ec79.js": "18588be685402df9b1ca7dd25ac153eb68bffe8e",
     "/RedditReader/polyfills-es5.1371f0ecbbf3eba6c42b.js": "18406398451b2d52a3910fb2ab7a489d615e8379",
     "/RedditReader/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
