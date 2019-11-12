@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1573476240203,
+  "timestamp": 1573521810008,
   "index": "/RedditReader/index.html",
   "assetGroups": [
     {
@@ -9,8 +9,8 @@
       "updateMode": "prefetch",
       "urls": [
         "/RedditReader/index.html",
-        "/RedditReader/main-es2015.be277696f87b301c545f.js",
-        "/RedditReader/main-es5.be277696f87b301c545f.js",
+        "/RedditReader/main-es2015.ae6d628f5822dbef5d6a.js",
+        "/RedditReader/main-es5.ae6d628f5822dbef5d6a.js",
         "/RedditReader/manifest.webmanifest",
         "/RedditReader/polyfills-es2015.4ddeb73791cb6fa9ec79.js",
         "/RedditReader/polyfills-es5.1371f0ecbbf3eba6c42b.js",
@@ -107,9 +107,9 @@
     "/RedditReader/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/RedditReader/great-vibes-latin-400.15d8dd2bf3b066290ec0.woff": "2cd10227e58ea02510de2b3363803c662218835e",
     "/RedditReader/great-vibes-latin-400.cd8416afbf4155a10f24.woff2": "7373ca191f5e6a879d59c3f70215dcadac5b26cf",
-    "/RedditReader/index.html": "9c768d7157e7c07bca759f414837651b3f14ea54",
-    "/RedditReader/main-es2015.be277696f87b301c545f.js": "9b7c460ac13f39e90fc111a6830f9d08e2f44dc9",
-    "/RedditReader/main-es5.be277696f87b301c545f.js": "6be517db5aa6eac508bad95234364e5092bdf0d5",
+    "/RedditReader/index.html": "2890f21336c2e33edc78c16460615bdb7a60b0f1",
+    "/RedditReader/main-es2015.ae6d628f5822dbef5d6a.js": "4c285bbc0b9204cd1270b841c0bf00b19664b345",
+    "/RedditReader/main-es5.ae6d628f5822dbef5d6a.js": "3824a0e87d43607c4f90ef3caa2ca28b8aa4b8a8",
     "/RedditReader/manifest.webmanifest": "9cb34b4dac1109cae926bc42e2f04a61283cd2be",
     "/RedditReader/polyfills-es2015.4ddeb73791cb6fa9ec79.js": "18588be685402df9b1ca7dd25ac153eb68bffe8e",
     "/RedditReader/polyfills-es5.1371f0ecbbf3eba6c42b.js": "18406398451b2d52a3910fb2ab7a489d615e8379",
