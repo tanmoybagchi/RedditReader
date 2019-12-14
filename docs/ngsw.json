@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1574248985328,
+  "timestamp": 1576327089905,
   "index": "/RedditReader/index.html",
   "assetGroups": [
     {
@@ -9,8 +9,8 @@
       "updateMode": "prefetch",
       "urls": [
         "/RedditReader/index.html",
-        "/RedditReader/main-es2015.16bd362a80a51edf949c.js",
-        "/RedditReader/main-es5.16bd362a80a51edf949c.js",
+        "/RedditReader/main-es2015.377d031ac7a0da7d8ff8.js",
+        "/RedditReader/main-es5.377d031ac7a0da7d8ff8.js",
         "/RedditReader/manifest.webmanifest",
         "/RedditReader/polyfills-es2015.4ddeb73791cb6fa9ec79.js",
         "/RedditReader/polyfills-es5.1371f0ecbbf3eba6c42b.js",
@@ -107,12 +107,12 @@
     "/RedditReader/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/RedditReader/great-vibes-latin-400.15d8dd2bf3b066290ec0.woff": "2cd10227e58ea02510de2b3363803c662218835e",
     "/RedditReader/great-vibes-latin-400.cd8416afbf4155a10f24.woff2": "7373ca191f5e6a879d59c3f70215dcadac5b26cf",
-    "/RedditReader/index.html": "fa85bb7de31ddf16c7afb5cc761bf653566e6062",
-    "/RedditReader/main-es2015.16bd362a80a51edf949c.js": "0a16744a54c5ded0b8e8886d53043d0b03ee53cf",
-    "/RedditReader/main-es5.16bd362a80a51edf949c.js": "681c24158f8d885593cc2fe25b14ec910ec3d433",
+    "/RedditReader/index.html": "68baabe44e12ac14e6a8582a2311c187aa85e315",
+    "/RedditReader/main-es2015.377d031ac7a0da7d8ff8.js": "b17200894850f9704f1a9540f52cdfcea0eb2709",
+    "/RedditReader/main-es5.377d031ac7a0da7d8ff8.js": "b1aa9cee8642c1bdc205c7d2310e7c2fe0060d46",
     "/RedditReader/manifest.webmanifest": "9cb34b4dac1109cae926bc42e2f04a61283cd2be",
     "/RedditReader/polyfills-es2015.4ddeb73791cb6fa9ec79.js": "18588be685402df9b1ca7dd25ac153eb68bffe8e",
-    "/RedditReader/polyfills-es5.1371f0ecbbf3eba6c42b.js": "18406398451b2d52a3910fb2ab7a489d615e8379",
+    "/RedditReader/polyfills-es5.1371f0ecbbf3eba6c42b.js": "ca96b34b69478886248da06820e03e8bb39a0671",
     "/RedditReader/runtime-es2015.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/RedditReader/runtime-es5.edb2fcf2778e7bf1d426.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/RedditReader/styles.cf977bc1c94215954938.css": "a2b8ffc94391f200d1533a098c2ba8fa8139d9f5"
