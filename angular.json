@@ -98,7 +98,9 @@
               "browserTarget": "RedditReader:build:production"
             },
             "development": {
-              "browserTarget": "RedditReader:build:development"
+              "browserTarget": "RedditReader:build:development",
+              "allowedHosts": ["localhost"],
+              "ssl": true
             }
           },
           "defaultConfiguration": "development"
