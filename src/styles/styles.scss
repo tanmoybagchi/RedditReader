@@ -1,0 +1,23 @@
+@use '@angular/material' as mat;
+@use 'theme' as theme;
+
+/*
+    The define-palette Sass function accepts a color palette, described in the Palettes section above, as well as four optional hue numbers.
+    These four hues represent, in order: the "default" hue, a "lighter" hue, a "darker" hue, and a "text" hue.
+
+    https://material.angular.io/guide/theming#defining-a-theme
+*/
+
+$primary-palette: mat.define-palette(mat.$light-blue-palette);
+$accent-palette: mat.define-palette(mat.$amber-palette, 400);
+$warn-palette: mat.define-palette(mat.$red-palette);
+$is-dark: true;
+
+@include theme.theme($primary-palette, $accent-palette, $warn-palette, $is-dark);
+
+/* You can add global styles to this file, and also import other style files */
+
+/*
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+*/

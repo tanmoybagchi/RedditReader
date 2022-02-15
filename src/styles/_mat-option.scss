@@ -1,0 +1,7 @@
+.mat-option.mat-selected:not(.mat-option-multiple) {
+  background: var(--primary-color) !important;
+}
+
+.mat-option.mat-selected:not(.mat-option-disabled) {
+  color: var(--primary-contrast-color) !important;
+}

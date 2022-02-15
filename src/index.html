@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <title>RedditReader</title>
@@ -10,7 +11,18 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
-<body>
+
+<body class="mat-app-background mat-typography">
+  <div id="ie11Warning"
+    style="margin-bottom: 1em; padding: 1em; background-color: orangered; color: white; text-align:center; font-size: 22px; display: none">
+    You are using Internet Explorer. Please switch to Microsoft Edge. IE is not supported.
+  </div>
+  <script>
+    if (!!window.MSInputMethodContext && !!document.documentMode) {
+      document.getElementById('ie11Warning').style.display = 'block';
+    }
+  </script>
   <app-root></app-root>
 </body>
+
 </html>

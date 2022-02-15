@@ -1,0 +1,21 @@
+.condensed-form mat-form-field:not(.mat-form-field-invalid) {
+  .mat-form-field-wrapper {
+    padding-bottom: 0 !important;
+
+    .mat-form-field-flex {
+      padding-top: 0.2em !important;
+
+      .mat-form-field-infix {
+        padding-bottom: 0.25em;
+      }
+    }
+
+    .mat-form-field-subscript-wrapper {
+      display: none !important;
+    }
+  }
+
+  .mat-form-field-underline {
+    bottom: unset !important;
+  }
+}
